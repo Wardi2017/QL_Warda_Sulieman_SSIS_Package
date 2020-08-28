@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Warda_Sulieman_SSIS_Package", "QL_Warda_Sulieman_SSIS_Package.dtproj", "{CD70EDFB-1ED4-4853-9EE7-082C040EF2D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD70EDFB-1ED4-4853-9EE7-082C040EF2D8}.Development|Default.ActiveCfg = Development
+		{CD70EDFB-1ED4-4853-9EE7-082C040EF2D8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60C97E7-C475-4400-94F8-3D5BAEF9A840}
+	EndGlobalSection
+EndGlobal
