@@ -84,4 +84,26 @@
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
   </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="DunaDatabaseWindowsNetUberWriterUberWriter_Password">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{8ac667f1-c3c7-445c-8527-21c9cc5c938e}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">1</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value"
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvIV5ZJ2Tp0e41ZZEIQkMTgAAAAACAAAAAAAQZgAAAAEAACAAAAC2bGyZwFwyU5d+hpbPV6oMHrIxbOsVJUow3C5/9Oe5LQAAAAAOgAAAAAIAACAAAADtuX2qn8NPe9fnf/pdYtl6hppcBSQYu7FbJOPKnxrC5oAAAAAQuToWNz9R34xi9W1mtqB6rtDz79mYGCNr/jwqiwSpBshjRJbIyxwrkNXdG1wMGwGaM+K0ztyPMZVRxZDhm4joqj7wv4rpelj3yZEnZQWfsansrpw/qbyJoHujF5je7QUX3czwo9vkmbi49+PhP0p9FC3jSyGJly+UTS/lOP/3fEAAAAB9C6LGd4cQ6qPOzKRNx+exsuGwgHLbaw8GtKeRmlVLWpf6xefdS/xqriS82a5C30vnnIG4d9n7ufOu8gM9JJUA</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
 </SSIS:Parameters>
